@@ -1,4 +1,6 @@
 Simple Budget App
+
+
 This is a Python-based budget tracking tool I built to practice Object-Oriented Programming (OOP) and string manipulation. It helps you manage different spending categories, track a ledger of transactions, and visualize your spending habits.
 
 What it does
