@@ -23,10 +23,14 @@ Python
 
 
 food = Category("Food")
+
 food.deposit(1000, "initial deposit")
+
 food.withdraw(10.15, "groceries")
 
+
 clothing = Category("Clothing")
+
 food.transfer(50, clothing)
 
 print(food)
